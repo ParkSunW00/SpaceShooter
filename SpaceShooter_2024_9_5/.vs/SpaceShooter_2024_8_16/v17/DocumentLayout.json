@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|c:\\unity_seo\\_web_work\\spaceshooter_2024_8_16\\assets\\energyshieldeffect\\assets\\shaders\\shield_c.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\energyshieldeffect\\assets\\shaders\\shield_c.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\networkscript\\titlenetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\networkscript\\titlenetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\networkscript\\storenetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\networkscript\\storenetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|c:\\unity_seo\\_web_work\\spaceshooter_2024_8_16\\assets\\02.scripts\\networkscript\\lobbynetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\networkscript\\lobbynetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\networkscript\\ingamenetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\networkscript\\ingamenetcoroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\lobbymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\lobbymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\globalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\globalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\networkscript\\networkmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\networkscript\\networkmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\title_mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\title_mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|c:\\unity_seo\\_web_work\\spaceshooter_2024_8_16\\assets\\02.scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\monosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\monosingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\assets\\02.scripts\\draganddropmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22200DCC-570E-1EA0-EB91-680ECED01191}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\draganddropmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shield_C.shader",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\EnergyShieldEffect\\Assets\\Shaders\\Shield_C.shader",
+              "RelativeDocumentMoniker": "Assets\\EnergyShieldEffect\\Assets\\Shaders\\Shield_C.shader",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\EnergyShieldEffect\\Assets\\Shaders\\Shield_C.shader",
+              "RelativeToolTip": "Assets\\EnergyShieldEffect\\Assets\\Shaders\\Shield_C.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-05T12:54:56.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\PlayerCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\PlayerCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\PlayerCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\PlayerCtrl.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAswO4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:15:24.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LobbyMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\LobbyMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\LobbyMgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\LobbyMgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\LobbyMgr.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:34:18.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LobbyNetCoroutine.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\LobbyNetCoroutine.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\NetworkScript\\LobbyNetCoroutine.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\LobbyNetCoroutine.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\NetworkScript\\LobbyNetCoroutine.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:25:58.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TitleNetCoroutine.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\TitleNetCoroutine.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\NetworkScript\\TitleNetCoroutine.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\TitleNetCoroutine.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\NetworkScript\\TitleNetCoroutine.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:17:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DragAndDropMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAgwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:07:54.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreNetCoroutine.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\StoreNetCoroutine.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\NetworkScript\\StoreNetCoroutine.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\StoreNetCoroutine.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\NetworkScript\\StoreNetCoroutine.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:28:59.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GameMgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\GameMgr.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAkwHoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:28:02.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InGameNetCoroutine.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\InGameNetCoroutine.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\NetworkScript\\InGameNetCoroutine.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\InGameNetCoroutine.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\NetworkScript\\InGameNetCoroutine.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:29:01.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MonoSingleton.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\MonoSingleton.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\MonoSingleton.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\MonoSingleton.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\MonoSingleton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:22:03.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalValue.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\GlobalValue.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GlobalValue.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\GlobalValue.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\GlobalValue.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwDUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:52:40.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetworkMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\NetworkMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\NetworkScript\\NetworkMgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\NetworkScript\\NetworkMgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\NetworkScript\\NetworkMgr.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAiwIYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:42:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Title_Mgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\Title_Mgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Title_Mgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\_Web_Work\\SpaceShooter_2024_8_16\\Assets\\02.Scripts\\Title_Mgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Title_Mgr.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:41:08.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

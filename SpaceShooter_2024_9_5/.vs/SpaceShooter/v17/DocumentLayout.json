@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|c:\\unity_seo\\workspace\\spaceshooter\\assets\\02.scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\globalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\globalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\grenadectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\grenadectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\lobbymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\lobbymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\bulletctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\bulletctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\monsterctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\monsterctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\barrelctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\barrelctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\firectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\firectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\draganddropmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\draganddropmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\slotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\slotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\store_mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\store_mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\title_mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\title_mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\skinvennode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\skinvennode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\skcool_nodectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\skcool_nodectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\02.scripts\\wallctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\wallctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFD1308-D3E3-B8C5-DFA4-E6888F24FA14}|Assembly-CSharp-firstpass.csproj|C:\\Unity_Seo\\Workspace\\SpaceShooter\\assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFD1308-D3E3-B8C5-DFA4-E6888F24FA14}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Title_Mgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\Title_Mgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Title_Mgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\Title_Mgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Title_Mgr.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:30:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DamageText.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\DamageText.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\DamageText.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\DamageText.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\DamageText.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:22:43.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalValue.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\GlobalValue.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GlobalValue.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\GlobalValue.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\GlobalValue.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:03:22.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GrenadeCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\GrenadeCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GrenadeCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\GrenadeCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\GrenadeCtrl.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAtwFQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:11:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LobbyMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\LobbyMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\LobbyMgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\LobbyMgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\LobbyMgr.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAnwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:33:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GameMgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\GameMgr.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAArwGQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:19:38.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonsterCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\MonsterCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\MonsterCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\MonsterCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\MonsterCtrl.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAArwPwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:28:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarrelCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\BarrelCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\BarrelCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\BarrelCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\BarrelCtrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:09:53.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SimpleActivatorMenu.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:11:13.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FireCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\FireCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\FireCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\FireCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\FireCtrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:17:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WallCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\WallCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\WallCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\WallCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\WallCtrl.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAArwDUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:06:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\PlayerCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\PlayerCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\PlayerCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\PlayerCtrl.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAmwJ0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:45:00.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BulletCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\BulletCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\BulletCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\BulletCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\BulletCtrl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:41:24.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SlotScript.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\SlotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\SlotScript.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\SlotScript.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\SlotScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:22:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FollowCam.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\FollowCam.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\FollowCam.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\FollowCam.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\FollowCam.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAowKUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:25:48.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Store_Mgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\Store_Mgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Store_Mgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\Store_Mgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Store_Mgr.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:15:00.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DragAndDropMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\DragAndDropMgr.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAqwGwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:47:38.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SkInvenNode.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\SkInvenNode.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\SkInvenNode.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\SkInvenNode.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\SkInvenNode.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:35:58.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SkCool_NodeCtrl.cs",
+              "DocumentMoniker": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\SkCool_NodeCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\SkCool_NodeCtrl.cs",
+              "ToolTip": "C:\\Unity_Seo\\Workspace\\SpaceShooter\\Assets\\02.Scripts\\SkCool_NodeCtrl.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\SkCool_NodeCtrl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:05:41.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
